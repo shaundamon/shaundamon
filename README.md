@@ -1,17 +1,14 @@
-### Hi there 👋,I’m @Thembisile
-####  I’m a Data Scientist and Web Developer, I strive to create the smartest solutions that serves our communities better and improve our livelihood.
+### Hi there 👋 I’m @Thembisile
+####  I’m a Data Scientist/Web Developer, I strive to create the most effective, yet simple solutions for businesses with an approach of Data Science techniques integrated with ease of use of web applications and allowing interactive engagement with the customer and essentially gain valuable data insights.
 
 I’m currently building web apps in Django development.
-- 💞️ I’m looking to collaborate on any interesting projects related to Data Science that is integrated with web dev, allowing better product creation.
-- 📫 You can reach out to me via email at : shaundamon09@gmail.com
+- 👨🏿‍🤝‍👨🏿 I’m looking to collaborate on any interesting projects related to Data Science that is integrated with web dev - bridging the gap b.
+- 📧 You can reach out to me via email at : shaundamon09@gmail.com
 
 Skills: PYTHON / JS / HTML / CSS / DOCKER / VERSION CONTROL / MACHINE LEARNING / DATA ANALYTICS / DATA MANAGEMENT / SQL 
 
-- 🔭 I’m currently working on Robotic Process Automation 
-- 🌱 I’m currently learning In Depth concepts and how to implement RPA in business and return value 
-- 👯 I’m looking to collaborate on Any side projects that involves using data science techniques and solutions to solve current problems facing the South African private industry at large. 
-- 🤔 I’m looking for help with improving my portfolio for freelancing 
-- 💬 Ask me about anything related related to Robotic Process Automation and how corporates could reduce costs and time on repetitive tasks and focus on more strategic solutions that require more time 
+- 🚦 I’m currently working on Robotic Process Automation
+- 🤔 I’m looking for help with improving my portfolio with real life projects and solutions and community engagement. 
 - 📫 How to reach me: shaundamon09@gmail.com 
 
 

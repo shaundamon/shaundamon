@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I’m @Thembisile
+### Hi there 👋,I’m @Thembisile
 ####  I’m a Data Scientist and Web Developer, I strive to create the smartest solutions that serves our communities better and improve our livelihood.
 
 I’m currently building web apps in Django development.

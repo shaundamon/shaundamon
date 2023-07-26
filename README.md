@@ -17,10 +17,10 @@
   </a>
 </div> -->
 
-Skills: PYTHON / JS / HTML / CSS / DOCKER / VERSION CONTROL / MACHINE LEARNING / DATA ANALYTICS / DATA MANAGEMENT / SQL 
+#### Skills: PYTHON / JS / HTML / CSS / DOCKER / VERSION CONTROL / MACHINE LEARNING / DATA ANALYTICS / DATA MANAGEMENT / SQL 
 
 - 🚦 I’m currently working on Robotic Process Automation
-- 🤔 I’m looking for help with improving my portfolio with real life projects and solutions and community engagement. 
+- 🤔 I’m looking for help with improving my portfolio with real life projects, solutions and community engagement. 
 - 📫 How to reach me: shaundamon09@gmail.com 
 
 

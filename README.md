@@ -1,5 +1,5 @@
 ### Hi there 👋 I’m @Thembisile
-#### As a Data Scientist with a passion for finance, I am committed to utilizing cutting-edge data science techniques to provide innovative solutions. My background in telecommunications has equipped me with a unique perspective and skill set that I bring to the table.
+#### As a Data Scientist with a passion for building and creating valuable tools, I am committed to utilizing cutting-edge data science techniques to provide innovative solutions. My background in telecommunications has equipped me with a unique perspective and skill set that I bring to the table.
 
 -🏦 I specialize in utilizing advanced analytics to generate powerful insights that help to make data-driven decisions. By developing custom solutions to better serve customers and remain competitive, I strive to contribute to the growth and success of the organization.
 -🚀 If you're interested in collaborating on a project, please feel free to contact me at shaundamon09@gmail.com to discuss further. I look forward to exploring potential opportunities with you.

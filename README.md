@@ -1,7 +1,8 @@
-# Hi there 👋 My name is Shaun Damon
+<h1 align="center"> Thembisile Damon</h1>
 
-🏦 I specialize in utilizing advanced analytics to generate powerful insights that help to make data-driven decisions. 
- By developing custom solutions to better serve customers and remain competitive, I strive to contribute to the growth and success of the organization.
+<br>
+<p align="center">🏦 I specialize in utilizing advanced analytics to generate powerful insights that help to make data-driven decisions. 
+ By developing custom solutions to better serve customers and remain competitive, I strive to contribute to the growth and success of the organization.</p>
 
 <!-- <div id="badges">
   <a href="your-linkedin-URL">
@@ -15,8 +16,10 @@
   </a>
 </div> -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br>
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
@@ -133,14 +136,15 @@
     />
   </a>
 </p>
+<br>
 
+<p align="center">🚦 I’m currently working on Robotic Process Automation</p>
 
+<p align="center">📫 You may reach me via email at: shaundamon09@gmail.com </p>
 
+<br>
 
-- 🚦 I’m currently working on Robotic Process Automation
-- 📫 You may reach me via email at: shaundamon09@gmail.com 
+<h1 align="center"> Let's Connect</h1>
 
-# Connect via socials and communities :
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thembisile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/thembisile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@damonts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thembisile-d-98b7b3109//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/seandamon6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/damon_shaun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sean_greg11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13959067/shaun-damon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCZ--GkhJNKm1As_-X4tPXkw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Double_Economist_462)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shaun.azurewebsites.net)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thembisile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/thembisile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@damonts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thembisile-d-98b7b3109//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/seandamon6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/damon_shaun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sean_greg11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13959067/shaun-damon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCZ--GkhJNKm1As_-X4tPXkw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Double_Economist_462)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.damonts.co.za)
 

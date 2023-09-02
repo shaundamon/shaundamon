@@ -17,6 +17,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+
   <a href="https://getbootstrap.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -98,6 +133,8 @@
     />
   </a>
 </p>
+
+
 
 
 - 🚦 I’m currently working on Robotic Process Automation

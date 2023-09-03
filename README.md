@@ -138,8 +138,6 @@
 </p>
 <br>
 
-<p align="center">🚦 I’m currently working on Robotic Process Automation</p>
-
 <p align="center">📫 You may reach me via email at: shaundamon09@gmail.com </p>
 
 <br>

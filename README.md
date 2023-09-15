@@ -138,7 +138,7 @@
 </p>
 <br>
 
-<p align="center">📫 You may reach me via email at: <a href="mailto:shaundamon09@gmail.com">shaundamon09@gmail.com</a></p>
+<p align="center">📧 You may reach me via email at: <a href="mailto:shaundamon09@gmail.com">shaundamon09@gmail.com</a></p>
 
 <br>
 

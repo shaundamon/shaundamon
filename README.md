@@ -1,8 +1,7 @@
 <h1 align="center"> Thembisile Damon</h1>
 
 <br>
-<p align="center">🏦 I specialize in utilizing advanced analytics to generate powerful insights that help to make data-driven decisions. 
- By developing custom solutions to better serve customers and remain competitive, I strive to contribute to the growth and success of the organization.</p>
+<p align="center"> Driven by curiosity and a passion for technology, I'm coding my path to impact - crafting a better tomorrow with every code snippet.🚀✨</p>
 
 <!-- <div id="badges">
   <a href="your-linkedin-URL">

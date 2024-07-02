@@ -134,6 +134,215 @@
       height="40"
     />
   </a>
+    <!-- Data Science Tools -->
+  <a href="https://pytorch.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+      alt="pytorch"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="scikit-learn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jupyter.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"
+      alt="jupyter"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"
+      alt="numpy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+      alt="pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+      alt="matplotlib"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img
+      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+      alt="seaborn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img
+      src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"
+      alt="plotly"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Software Development Tools -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+      alt="kubernetes"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+      alt="azure"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.nginx.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://graphql.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.selenium.dev" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
+      alt="selenium"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://travis-ci.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"
+      alt="travisci"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://babeljs.io/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      alt="babel"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+
 </p>
 <br>
 

@@ -332,17 +332,6 @@
       height="40"
     />
   </a>
-
-  <a href="https://babeljs.io/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-
 </p>
 <br>
 

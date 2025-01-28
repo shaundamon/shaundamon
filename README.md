@@ -1,7 +1,7 @@
 <h1 align="center"> Thembisile Damon</h1>
 
 <br>
-<p align="center"> Driven by curiosity and a passion for technology, I'm coding my path to impact - crafting a better tomorrow with every code snippet.🚀✨</p>
+<p align="center"> Hey man, I just love coding and building cool but impactful solutions, anything else - is just a bonus for me.🚀✨</p>
 
 <!-- <div id="badges">
   <a href="your-linkedin-URL">

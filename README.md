@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Languages & Tools:</b><br>
-  Python · Django · React · Node.js · PostgreSQL · Docker · GCP · AWS
+  Python · Django · JavaScript · TypeScript · React · Node.js · PostgreSQL · Docker · GCP · AWS 
 </p>
 
 <br>

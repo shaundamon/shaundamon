@@ -20,7 +20,7 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="https://github.com/thembisile">GitHub</a> |
+  <a href="https://github.com/shaundamon">GitHub</a> |
   <a href="https://www.linkedin.com/in/thembisile-d-98b7b3109">LinkedIn</a> |
   <a href="http://shaun-projects.vercel.app">Projects</a>
 </p>

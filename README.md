@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Languages & Tools:</b><br>
-  Python · Django · JavaScript · TypeScript · React · Node.js · Relational Databases · Containerization(Docker) · GCP · AWS 
+  Python · Django · JavaScript · TypeScript · React · Node.js · Relational Databases · Containerization(Docker, K8's) · Cloud(AWS, Azure, Alibaba Cloud & GCP) 
 </p>
 
 <br>
